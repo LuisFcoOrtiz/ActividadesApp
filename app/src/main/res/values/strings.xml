@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ActividadesApp</string>
+    <string name="userString">Usuario</string>
+    <string name="passString">Contraseña</string>
+    <string name="enviarButtonText">Login</string>
+
+</resources>

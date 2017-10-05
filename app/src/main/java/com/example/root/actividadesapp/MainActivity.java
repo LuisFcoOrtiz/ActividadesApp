@@ -53,6 +53,7 @@ public class MainActivity extends AppCompatActivity {
         mandarAOtroActivity.putExtra("USER_SENT",nombre);
         mandarAOtroActivity.putExtra("PASSWORD_SENT",password);
         startActivity(mandarAOtroActivity);
+        //prueba
 
     }//send data
 

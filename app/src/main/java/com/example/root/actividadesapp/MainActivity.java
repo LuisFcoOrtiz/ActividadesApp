@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void createDefaultMiembro() {
         //Default miembro to entry
-        miembro = new Miembros("admin","admin","19/5/92",true);
+        miembro = new Miembros("admin","admin","19/05/92",true);
         miembrosArray.add(miembro);
     }//Miembro default to entry
 

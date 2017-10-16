@@ -4,4 +4,20 @@
     <string name="passString">Contraseña</string>
     <string name="enviarButtonText">Login</string>
 
+    <string name="mensajeNewUser">Panel de creación de miembros</string>
+    <string name="newMemberName">Nombre</string>
+    <string name="newMemberPass">Contraseña</string>
+    <string name="newMemberDate">Fecha nac</string>
+    <string name="newMemberType">Tipo usuario</string>
+
+    <string name="mensajeSearchUser">Panel de busqueda de miembros</string>
+
+    <string-array name="userTypes">
+        <item>Usuario</item>
+        <item>Administrador</item>
+    </string-array>
+
+    <string name="mensajeDropUser">Panel de borrado de miembros</string>
+    <string name="mensajeModifyUser">Panel de modificado de miembros</string>
+
 </resources>
